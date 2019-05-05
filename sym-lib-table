@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name vvmrpi-rescue)(type Legacy)(uri ${KIPRJMOD}/vvmrpi-rescue.lib)(options "")(descr ""))
+  (lib (name dcdc-generic)(type Legacy)(uri ${KIPRJMOD}/dcdc-generic.lib)(options "")(descr ""))
+)

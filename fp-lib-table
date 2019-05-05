@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name dcdc-generic)(type KiCad)(uri ${KIPRJMOD}/dcdc-generic.pretty)(options "")(descr ""))
+)
